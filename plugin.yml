@@ -1,0 +1,6 @@
+name: "Gnomeversation"
+description: "Making ReMinecraft JDA integration stupid simple"
+authors:
+  - "michu"
+version: "1.0"
+mainClass: "Main"
